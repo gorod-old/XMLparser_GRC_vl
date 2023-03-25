@@ -1,0 +1,1 @@
+Pars data from XML file to Excel.
